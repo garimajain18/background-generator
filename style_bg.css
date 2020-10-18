@@ -1,10 +1,10 @@
 body{
-background-color: lightblue;
+background-color: darkblue;
 text-align: center;
 }
 h1{
-color: darkblue;
-font-size: 65px;
+color: lightblue;
+font-size: 70px;
 }
 h2{
     font-style: oblique;
